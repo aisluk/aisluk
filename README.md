@@ -1,27 +1,27 @@
-## Hello, I'm Aistė!
+# Hello, I'm Aistė!
 I'm a 3rd year KTU Software Systems student based in Kaunas, Lithuania.
 Working on becoming either a back-end or full stack programmer. Interested in database systems.
 
-## Tech Stack
+##Tech Stack
 <!-- Fundamental skills:
 Proficient:
 -->
-# Basic skills:
+## Basic skills:
 Unix, C, Python, php, Javascript, Golang, Java
 
-# Intermediate skills:
+## Intermediate skills:
 c++, HTML, CSS, database development & design, Oracle SQL, MYSQL, object-oriented programming, C# .Net MVC framework, Microsoft Excel
 
-# Advanced skills:
+## Advanced skills:
 C#, general SQL, Microsoft Word
 
 
-## Working on:
+# Working on:
 Improving my university projects for Github sharing
 A time and calendar converter to many formats in C#
 
 
-## Connect with me
+# Connect with me
 E-mail: aiste.lukosiute.26@gmail.com
 Linkedin: https://www.linkedin.com/in/aist%C4%97-luko%C5%A1i%C5%ABt%C4%97-475590388/
 Github: https://github.com/aisluk
