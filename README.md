@@ -8,10 +8,10 @@ Working on becoming either a back-end or full stack programmer. Interested in da
 Proficient:
 -->
 ## Basic skills:
-Unix, C, Python, php, Javascript, Golang, Java
+Unix, C, Python, php, Javascript, Golang, Java, Matlab, UML, parallel programming, data analysis with Microsoft Power BI, solution search & data classification tasks with neural networks
 
 ## Intermediate skills:
-c++, HTML, CSS, database development & design, Oracle SQL, MYSQL, object-oriented programming, C# .Net MVC framework, Microsoft Excel
+c++, HTML, CSS, relational database development & design, Oracle SQL, MYSQL, object-oriented programming, C# .Net MVC framework, Microsoft Excel
 
 ## Advanced skills:
 C#, general SQL, Microsoft Word
