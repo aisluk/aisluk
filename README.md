@@ -1,5 +1,6 @@
 # Hello, I'm Aistė!
 I'm a 3rd year KTU Software Systems student based in Kaunas, Lithuania.
+
 Working on becoming either a back-end or full stack programmer. Interested in database systems.
 
 # Tech Stack
@@ -23,7 +24,9 @@ A time and calendar converter to many formats in C#
 
 # Connect with me
 E-mail: aiste.lukosiute.26@gmail.com
+
 Linkedin: https://www.linkedin.com/in/aist%C4%97-luko%C5%A1i%C5%ABt%C4%97-475590388/
+
 Github: https://github.com/aisluk
 
 
