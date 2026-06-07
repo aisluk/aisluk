@@ -3,18 +3,18 @@ I'm a 3rd year KTU Software Systems student based in Kaunas, Lithuania.
 
 Working on becoming either a back-end or full stack programmer. Interested in database systems.
 
-# Tech Stack
-<!-- Fundamental skills:
-Proficient:
--->
-## Basic skills:
-Unix, C, Python, php, Javascript, Golang, Java, Matlab, UML, parallel programming, data analysis with Microsoft Power BI, solution search & data classification tasks with neural networks
+# Tech Stack skills
 
-## Intermediate skills:
-c++, HTML, CSS, relational database development & design, Oracle SQL, MYSQL, object-oriented programming, C# .Net MVC framework, Microsoft Excel
+## Novice / Beginner (Basic):
+Unix, C, Python, php, Javascript, Golang, Java, Matlab, parallel programming, data analysis with Microsoft Power BI, solution search & data classification tasks with neural networks
 
-## Advanced skills:
-C#, general SQL, Microsoft Word
+## Advanced Beginner (Working Knowledge):
+c++, UML, relational database development & design, Oracle SQL
+
+## Competent (Intermediate)
+C#,  C# .Net MVC framework, MySQL, HTML, CSS, Microsoft Word, Microsoft Excel, object-oriented programming
+
+
 
 # My projects
 Burnout risk assessment website (group project): https://github.com/SamuelisGaming/Burnout-Risk-management
