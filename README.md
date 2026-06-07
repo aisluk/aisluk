@@ -16,6 +16,10 @@ c++, HTML, CSS, relational database development & design, Oracle SQL, MYSQL, obj
 ## Advanced skills:
 C#, general SQL, Microsoft Word
 
+# My projects
+Burnout risk assessment website (group project): https://github.com/SamuelisGaming/Burnout-Risk-management
+C# Recursive pathfinding in a grid map: https://github.com/aisluk/Recursive-pathfinding
+C# type 2 Koch curve recursive implementation: https://github.com/aisluk/Quadratic-Koch-Curve
 
 # Working on:
 Improving my university projects for Github sharing
