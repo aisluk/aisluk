@@ -1,5 +1,5 @@
 # Hello, I'm Aistė!
-I'm a 3rd year KTU Software Systems student based in Kaunas, Lithuania.
+I'm a 4th year KTU Software Systems student based in Kaunas, Lithuania.
 
 Working on becoming either a back-end or full stack programmer. Interested in database systems.
 
