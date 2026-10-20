@@ -1,12 +1,12 @@
 # Hello, I'm Aistė!
 I'm a 4th year KTU Software Systems student based in Kaunas, Lithuania.
 
-Working on becoming either a back-end or full stack programmer. Interested in database systems.
+Working on becoming either a back-end or full stack programmer.
 
 # Tech Stack skills
 
 ## Novice / Beginner (Basic):
-Unix, C, Python, php, Javascript, Golang, Java, Matlab, parallel programming, data analysis with Microsoft Power BI, solution search & data classification tasks with neural networks
+Unix, C, Python, php, Ruby, Kotlin, Javascript, Golang, Java, Matlab, parallel programming, data analysis with Microsoft Power BI, solution search & data classification tasks with neural networks
 
 ## Advanced Beginner (Working Knowledge):
 c++, UML, relational database development & design, Oracle SQL
@@ -15,18 +15,36 @@ c++, UML, relational database development & design, Oracle SQL
 C#,  C# .Net MVC framework, MySQL, HTML, CSS, Microsoft Word, Microsoft Excel, object-oriented programming
 
 
-
 # My projects
-Burnout risk assessment website (group project): https://github.com/SamuelisGaming/Burnout-Risk-management
+Burnout risk assessment website (group project) 
+```
+	https://github.com/SamuelisGaming/Burnout-Risk-management
+```
 
-C# Recursive pathfinding in a grid map: https://github.com/aisluk/Recursive-pathfinding
+C# Recursive pathfinding in a grid map: 
+```
+	https://github.com/aisluk/Recursive-pathfinding
+```
 
-C# type 2 Koch curve recursive implementation: https://github.com/aisluk/Quadratic-Koch-Curve
+C# type 2 Koch curve recursive implementation:
+```
+	https://github.com/aisluk/Quadratic-Koch-Curve
+```
+
+Ruby Tic Tac Toe Grid validity checker: 
+```
+	https://github.com/aisluk/TicTacToeGrid
+```
+
+Kotlin To-Do app with task urgency and impact tagging: 
+```
+	https://github.com/aisluk/ToDoApp
+```
 
 # Working on:
 Improving my university projects for Github sharing
 
-A time and calendar converter to many formats in C#
+A creative project planning and tracking website
 
 
 # Connect with me
