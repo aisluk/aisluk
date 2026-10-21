@@ -16,9 +16,13 @@ C#,  C# .Net MVC framework, MySQL, HTML, CSS, Microsoft Word, Microsoft Excel, o
 
 
 # My projects
-Burnout risk assessment website (group project) 
+Burnout risk assessment website (group project):
 ```
 	https://github.com/SamuelisGaming/Burnout-Risk-management
+```
+Bomberman inspired multiplayer web game (group project):
+```
+   https://github.com/gabbioe/bombboy/tree/main
 ```
 
 C# Recursive pathfinding in a grid map: 
