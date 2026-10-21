@@ -22,7 +22,7 @@ Burnout risk assessment website (group project):
 ```
 Bomberman inspired multiplayer web game (group project):
 ```
-   https://github.com/gabbioe/bombboy/tree/main
+    https://github.com/gabbioe/bombboy/tree/main
 ```
 
 C# Recursive pathfinding in a grid map: 
